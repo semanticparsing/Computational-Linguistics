@@ -1,0 +1,4 @@
+Earley20171021.py
+第二次的作业，下载网上的Earley算法代码，修改python3能运行的版本
+url: https://github.com/tef/earley/blob/master/earley.py
+15:29 2017/10/21
